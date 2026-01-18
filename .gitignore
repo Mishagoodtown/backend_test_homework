@@ -7,4 +7,4 @@ build/side.txt
 # Игнорировать все файлы с расширением .doc
 *.doc
 
-*.txt
+*test.txt
